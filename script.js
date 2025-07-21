@@ -91,29 +91,6 @@ const brandSwiper = new Swiper(".brandSwiper", {
   },
 });
 
-// priceTags
-const swiper = new Swiper(".priceTags", {
-  slidesPerView: 1.5,
-  spaceBetween: 16,
-  breakpoints: {
-    425: {
-      slidesPerView: 1.7,
-    },
-    640: {
-      slidesPerView: 2.5,
-    },
-    768: {
-      slidesPerView: 3,
-    },
-    1024: {
-      slidesPerView: 4,
-    },
-  },
-  loop: true,
-  autoplay: {
-    delay: 2000,
-  },
-});
 
 // services
 

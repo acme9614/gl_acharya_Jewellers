@@ -27,7 +27,7 @@ html {
 }
 
 .swiper-pagination-bullet-active {
-  background-color: #2661ce; /* Tailwind yellow-400 */
+  background-color: #2661ce; 
 }
 
 .heading {
