@@ -82,6 +82,10 @@ function navigateToHomePage() {
   Toaster.postMessage("navigateToHomePage");
 }
 
+function navigateToARVirtualTryOn() {
+  Toaster.postMessage("navigateToARVirtualTryOn");
+}
+
 // brandSwiper
 const brandSwiper = new Swiper(".brandSwiper", {
   loop: true,
